@@ -1,0 +1,11 @@
+{
+    "model_name": "ResNet50",
+    "input_size": [
+        3,
+        224,
+        224
+    ],
+    "output_size": null,
+    "timestamp": "20250505_044256",
+    "description": "HED model trained on face recognition task"
+}
