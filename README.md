@@ -41,8 +41,3 @@ All `.py` files replicate the logic of their corresponding notebooks and serve a
 - matplotlib
 - PIL / Pillow
 - tqdm
-
-You can install dependencies via:
-
-```bash
-pip install -r requirements.txt
