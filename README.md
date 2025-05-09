@@ -41,3 +41,7 @@ All `.py` files replicate the logic of their corresponding notebooks and serve a
 - matplotlib
 - PIL / Pillow
 - tqdm
+
+## 📈 Output Images & Statistics Data
+
+They are in the output directory and allocated in different directories according to each embedding networks' name. You can find training curves, epoch data, saliency maps, model parameters summary, prediction histogram chart and other data figures or pictures. 
